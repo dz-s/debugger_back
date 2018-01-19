@@ -1,12 +1,8 @@
 {
-  "name": "Start on Heroku: Go",
-  "description": "Go Getting Started Example App",
+  "name": "debugger",
+  "description": "BPMN process debugger",
   "keywords": [
-    "getting-started",
-    "go",
-    "sample",
-    "example"
+    "go"
   ],
-  "website": "http://github.com/heroku/go-getting-started",
-  "repository": "http://github.com/heroku/go-getting-started"
+  "repository": "https://github.com/teriyakigod2/debugger_back"
 }
